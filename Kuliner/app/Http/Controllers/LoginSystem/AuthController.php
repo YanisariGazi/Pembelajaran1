@@ -4,7 +4,6 @@ namespace App\Http\Controllers\LoginSystem;
 
 use App\Models\User;
 use Illuminate\Http\Request;
-use App\Mail\SendEmailVerify;
 use App\Jobs\SendEmailVerifyJob;
 use Illuminate\Support\Facades\URL;
 use App\Http\Controllers\Controller;

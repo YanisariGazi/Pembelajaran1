@@ -17,7 +17,6 @@ use App\Http\Controllers\LoginSystem\EmailVerificationController;
 
 
 
-
 /*
 |--------------------------------------------------------------------------
 | API Routes
